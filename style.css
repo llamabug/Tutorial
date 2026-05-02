@@ -12,6 +12,13 @@ h1 {
     color: rgb(39, 56, 16);
 }
 
+h3 {
+    text-decoration: underline;
+}
+
+a {
+    color: rgb(39, 56, 16);
+}
 
 p {
     margin-top: 15px;
