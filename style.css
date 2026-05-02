@@ -1,0 +1,26 @@
+img {
+    width: 600px;
+}
+
+body {
+    background-color: #f3f7e1;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(39, 56, 16);
+}
+
+
+p {
+    margin-top: 15px;
+    font-size: 20px;
+    color: rgb(39, 56, 16);
+}
+
+.image {
+    display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;     /* Centers vertically (requires container height) */
+}
